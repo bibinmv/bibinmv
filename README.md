@@ -38,7 +38,7 @@
 - [GitHub](https://github.com/bibinmv)
   
 ## 📊 GitHub Stats
-
-![Bibin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibinmv&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibinmv&layout=compact&theme=tokyonight)
+![Bibin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibinmv&show_icons=true&theme=tokyonight&rank_icon=github)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=bibinmv&theme=tokyonight)
