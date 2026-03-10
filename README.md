@@ -19,13 +19,24 @@
 
 ## 📂 My Projects
 
-🔹 RHCSA LVM Storage Administration Lab  
-🔹 Ansible Apache Deployment using Ansible on RHEL  
-🔹 Linux User Permission Management Lab
+🔹 [RHCSA LVM Storage Administration Lab](https://github.com/bibinmv/rhcsa-lvm-storage-project)  
+🔹 [Ansible Apache Deployment](https://github.com/bibinmv/ansible-apache-deployment)  
+🔹 [Linux User Permission Management Lab](https://github.com/bibinmv/RHCSA-User-Permission-Management)
 
 ---
+## 🛠 Tools & Technologies
 
+- Linux (RHEL / AlmaLinux)
+- Bash
+- Ansible
+- Git
+- Apache
+  
 ## 📫 Connect with me
 
-- LinkedIn
-- GitHub
+- [LinkedIn](https://www.linkedin.com/in/bibinmv)
+- [GitHub](https://github.com/bibinmv)
+  
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bibinmv&show_icons=true&theme=dark)
