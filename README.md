@@ -17,7 +17,7 @@
 
 ---
 
-## 📂 My Projects
+### 📂 My Projects
 
 🔹 [Linux Web Server Deployment, Monitoring and Security using LAMP Stack](https://github.com/bibinmv/Linux-Web-Server-Deployment-Monitoring-Security)  
 🔹 [RHCSA LVM Storage Administration Lab](https://github.com/bibinmv/rhcsa-lvm-storage-project)  
