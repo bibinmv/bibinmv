@@ -23,7 +23,7 @@
 🔹 [RHCSA LVM Storage Administration Lab](https://github.com/bibinmv/rhcsa-lvm-storage-project)  
 🔹 [Ansible Apache Deployment](https://github.com/bibinmv/ansible-apache-deployment)  
 🔹 [Linux User Permission Management Lab](https://github.com/bibinmv/RHCSA-User-Permission-Management)
-
+🔹 [Linux Backup Automation using rsync and cron](https://github.com/bibinmv/linux-backup-automation)
 ---
 ## 🛠 Tools & Technologies
 
