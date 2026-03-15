@@ -19,12 +19,13 @@
 
 ## 📂 My Projects
 
-🔹 [Linux Web Server Deployment, Monitoring and Security using LAMP Stack](https://github.com/bibinmv/Linux-Web-Server-Deployment-Monitoring-Security)  
-🔹 [RHCSA LVM Storage Administration Lab](https://github.com/bibinmv/rhcsa-lvm-storage-project)  
-🔹 [Ansible Apache Deployment](https://github.com/bibinmv/ansible-apache-deployment)  
-🔹 [Linux User Permission Management Lab](https://github.com/bibinmv/RHCSA-User-Permission-Management)
-🔹 [Linux Backup Automation using rsync and cron](https://github.com/bibinmv/linux-backup-automation)
+- [Linux Web Server Deployment, Monitoring and Security using LAMP Stack](https://github.com/bibinmv/Linux-Web-Server-Deployment-Monitoring-Security)
+- [RHCSA LVM Storage Administration Lab](https://github.com/bibinmv/rhcsa-lvm-storage-project)
+- [Ansible Apache Deployment](https://github.com/bibinmv/ansible-apache-deployment)
+- [Linux User Permission Management Lab](https://github.com/bibinmv/RHCSA-User-Permission-Management)
+- [Linux Backup Automation using rsync and cron](https://github.com/bibinmv/linux-backup-automation)
 ---
+
 ## 🛠 Tools & Technologies
 
 - Linux (RHEL / AlmaLinux)
