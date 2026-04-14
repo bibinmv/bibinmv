@@ -18,7 +18,8 @@
 ---
 
 ## 📂 My Projects
-- [RHCE (EX294) Ansible Automation Practice](https://github.com/bibinmv/rhce-ansible-practice)
+
+- [RHCE (EX294) Ansible Automation – Hands-on Practice & Lab Implementation](https://github.com/bibinmv/rhce-ansible-practice)
 - [Linux Web Server Deployment, Monitoring and Security using LAMP Stack](https://github.com/bibinmv/Linux-Web-Server-Deployment-Monitoring-Security)
 - [RHCSA LVM Storage Administration Lab](https://github.com/bibinmv/rhcsa-lvm-storage-project)
 - [Ansible Apache Deployment](https://github.com/bibinmv/ansible-apache-deployment)
